@@ -1,0 +1,21 @@
+body {
+  display: block;
+  text-align: center;
+  background-color: chocolate;
+  padding: 10px;
+}
+
+.timer {
+  display: flex;
+  justify-content: center;
+  background-color: bisque;
+}
+
+.field {
+  padding: 20px;
+}
+
+.value {
+  display: block;
+  font-size: 55px;
+}
